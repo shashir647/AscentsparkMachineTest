@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WebAppFactory</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_dashboard">Dashboard</string>
+    <string name="menu_details">Details</string>
+    <string name="splash_image">splashImage</string>
+    <string name="no_name">No Name Available</string>
+    <string name="no_nick">No Nick Available</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_data_found">No data found</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#14ADD2</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlue">#14ADD2</color>
+    <color name="colorOrange">#ED7D31</color>
+    <color name="colorWhiteMenu">#e6ffffff</color>
+    <color name="colorBlueOpaque">#8014ADD2</color>
+
+    <color name="colorLightGreyOne">#F0F0F0</color>
+    <color name="colorLightGreyTwo">#DFDFDF</color>
+    <color name="colorLightGreyThree">#C1C1C1</color>
+
+    <color name="colorDarkGreyOne">#999999</color>
+    <color name="colorDarkGreyTwo">#595959</color>
+    <color name="colorChatGrey">#666666</color>
+
+    <color name="colorLighterBlack">#353535</color>
+    <color name="colorLightBlack">#171717</color>
+    <color name="colorDarkBlack">#000000</color>
+
+
+
+    <color name="colorHeaderLightBlack">#171717</color>
+    <color name="colorSearchBar">#1A1A1A</color>
+
+    <color name="colorSemiTransparentBlack">#40000000</color>
+    <color name="colorTransparentBlack">#B3000000</color>
+    <color name="colorTransparentBackground">#CC000000</color>
+    <color name="colorTransparentBlue">#B314ADD2</color>
+    <color name="colorClose">#D6344F</color>
+
+    <color name="colorSemiTransparentBlack2">#77000000</color>
+</resources>
